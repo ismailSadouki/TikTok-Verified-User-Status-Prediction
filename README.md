@@ -5,10 +5,11 @@ This project involves building a logistic regression model to predict whether a 
 
 
 
-[Summary](https://github.com/ismailSadouki/TikTok-Verified-User-Status-Prediction/blob/main/summary.pdf)
+### [Summary](https://github.com/ismailSadouki/TikTok-Verified-User-Status-Prediction/blob/main/summary.pdf)
 
-### [Jupyter Notebook](https://github.com/ismailSadouki/TikTok-Verified-User-Status-Prediction/blob/main/TikTok project .ipynb)
-### [Jupyter Notebook PDF](https://github.com/ismailSadouki/TikTok-Verified-User-Status-Prediction/blob/main/TikTok project .pdf)
+### [Jupyter Notebook](https://github.com/ismailSadouki/TikTok-Verified-User-Status-Prediction/blob/main/TikTok%20project%20.ipynb)
+### [Jupyter Notebook PDF](https://github.com/ismailSadouki/TikTok-Verified-User-Status-Prediction/blob/main/TikTok%20project%20.pdf)
+
 ### [Data](https://github.com/ismailSadouki/TikTok-Verified-User-Status-Prediction/blob/main/tiktok_dataset.csv)
 
 ## Project Overview
