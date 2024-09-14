@@ -5,8 +5,11 @@ This project involves building a logistic regression model to predict whether a 
 
 
 
+[Summary](https://github.com/ismailSadouki/TikTok-Verified-User-Status-Prediction/blob/main/summary.pdf)
 
-
+### [Jupyter Notebook](https://github.com/ismailSadouki/TikTok-Verified-User-Status-Prediction/blob/main/TikTok project .ipynb)
+### [Jupyter Notebook PDF](https://github.com/ismailSadouki/TikTok-Verified-User-Status-Prediction/blob/main/TikTok project .pdf)
+### [Data](https://github.com/ismailSadouki/TikTok-Verified-User-Status-Prediction/blob/main/tiktok_dataset.csv)
 
 ## Project Overview
 The main objective of this project is to develop a logistic regression model to predict whether a TikTok user is verified. By analyzing various features, the model provides insights into the correlation between video characteristics and verified user status. The model achieved a predictive accuracy of 65%.
